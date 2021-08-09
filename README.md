@@ -34,3 +34,21 @@ AND I can edit the information presented
 WHEN I submit the form THEN I am presented with a updated item.
 WHEN I choose to delete an existing item THEN the item is removed from the dashboard.
 ```
+
+## Packages USed
+ - apollo/client
+ - apollo-server-express
+ - bcrypt
+ - bootstrap
+ - express
+ - graphql
+ - jsonwebtoken
+ - jwt-decode
+ - mongoose
+ - react
+ - react-bootstrap
+ - react-dom
+ - react-router-dom
+ - react-scripts
+
+## Heroku Deployed link
