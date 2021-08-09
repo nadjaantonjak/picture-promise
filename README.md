@@ -1,7 +1,6 @@
 # picture-promise
 
-Contributors
-
+Contributors-
 Nadja Antonjak
 
 User Story
