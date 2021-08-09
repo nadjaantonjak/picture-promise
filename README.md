@@ -13,24 +13,24 @@ SO THAT I can access them and read on the event whenever i desire.
 
 ## Acceptance criteria
 ``` 
-GIVEN I do not have an account in the password genie app
+GIVEN I do not have an account in the picture-promise app,
 WHEN I click register THEN I am presented with a form AND I need to enter a username, email and password
 WHEN I enter an exisitng user email to register THEN I am presented with an error message to notify me that the username has been taken
 WHEN I submit the form with a unique email THEN I am taken to the user dashboard
  
-GIVEN I have an account in the password genie app 
+GIVEN I have an account in the picture-promise app ,
 WHEN I enter registered username and password THEN I am taken to the user dashboard
 
-GIVEN I have an account in the password genie app
-WHEN log in THEN I am presented with a dashboard
+GIVEN I have an account in the picture-promise app,
+WHEN log in THEN I am presented with a dashboard showing all my posts
 AND I have the option to create a new item, view an exisitng item, edit an existing item and delete an existing item.
 
-GIVEN I have logged in to the password genie app,
+GIVEN I have logged in to the picture-promise,
 WHEN I choose to create a new item THEN I am presented with a form.
-AND I need to enter a website name, url of website, username and type a password or generate a password using a modal with different user requirement.
-WHEN I submit the form THEN I am taken back to the dashboard and I can see my newly created item.
+AND I need to fill out the form and add a photo.
+WHEN I submit the form THEN I am presented with the post on my dashboard.
 WHEN I choose to edit an existing item THEN I am presented with a pre-filled form with existing data
-AND I can edit the website name, url of website, username and type or generate a new password using a modal with different user requirement
-WHEN I submit the form THEN I am taken back to the dashboard and I can see my updated password item.
-WHEN I choose to delete an existing item THEN the password item is removed from the dashboard.
+AND I can edit the information presented
+WHEN I submit the form THEN I am presented with a updated item.
+WHEN I choose to delete an existing item THEN the  item is removed from the dashboard.
 ```
