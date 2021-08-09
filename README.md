@@ -71,7 +71,7 @@ WHEN I choose to delete an existing item THEN the item is removed from the dashb
 
 ## Presentation Link
 
-## Heroku Deployed link
+## Deployed link
 
 
 © 2021 Nadja Antonjak. All Rights Reserved.
