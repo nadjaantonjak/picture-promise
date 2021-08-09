@@ -3,7 +3,7 @@
 Contributors-
 Nadja Antonjak
 
-A Full Stack MERN Application that is a simple social media app that allows users to post interesting events that happened in their lives.
+A Full Stack MERN Application that is a simple social media app that allows users to post photos and comments on interesting events that happened in their lives.
 
 ## What was your motivation?
 
