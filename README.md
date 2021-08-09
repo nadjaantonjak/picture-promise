@@ -52,3 +52,6 @@ WHEN I choose to delete an existing item THEN the item is removed from the dashb
  - react-scripts
 
 ## Heroku Deployed link
+
+
+© 2021 Nadja Antonjak. All Rights Reserved.
