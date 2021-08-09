@@ -6,14 +6,19 @@ Nadja Antonjak
 A Full Stack MERN Application that is a simple social media app that allows users to post photos and comments on interesting events that happened in their lives.
 
 ## What was your motivation?
+I was motivated to create this app to test my limits and create a full mern application alone, it tested me but also proved to me i can achieve projects alone. 
 
 ## Why did you build this project?
+I was inspired to build this project as the photo app on your phone doesnt let you store your photos with comments. i wanted to create more so a digital photo book where you can write whatver you desire with that memory.
 
 ## What problem does it solve?
+It lets users organise their photos and add comments to capture memories whenever and werever they will like. the users data is saved so their photos will stay on the application forever unless they choose to delete them.
 
 ## What did you learn?
+I learned how to encouporate all the skills anf knowledge i have learnt throughout my coure to fially display this full MERN application
 
 ## What makes your project stand out?
+My projects stand out as its easy to use and its very functional, i used basic css in order not to clash withphotos being uploaded so the application always looks neat and tidy.
 
 
 ## User story
