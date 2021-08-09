@@ -5,6 +5,16 @@ Nadja Antonjak
 
 A Full Stack MERN Application that is a simple social media app that allows users to post interesting events that happened in their lives.
 
+## What was your motivation?
+
+## Why did you build this project?
+
+## What problem does it solve?
+
+## What did you learn?
+
+## What makes your project stand out?
+
 
 ## User story
 ``` 
@@ -36,6 +46,7 @@ AND I can edit the information presented
 WHEN I submit the form THEN I am presented with a updated item.
 WHEN I choose to delete an existing item THEN the item is removed from the dashboard.
 ```
+## Wireframe
 
 ## Packages Used
  - apollo/client
