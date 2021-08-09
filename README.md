@@ -32,5 +32,5 @@ WHEN I submit the form THEN I am presented with the post on my dashboard.
 WHEN I choose to edit an existing item THEN I am presented with a pre-filled form with existing data
 AND I can edit the information presented
 WHEN I submit the form THEN I am presented with a updated item.
-WHEN I choose to delete an existing item THEN the  item is removed from the dashboard.
+WHEN I choose to delete an existing item THEN the item is removed from the dashboard.
 ```
