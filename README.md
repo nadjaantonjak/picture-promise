@@ -35,7 +35,7 @@ WHEN I submit the form THEN I am presented with a updated item.
 WHEN I choose to delete an existing item THEN the item is removed from the dashboard.
 ```
 
-## Packages USed
+## Packages Used
  - apollo/client
  - apollo-server-express
  - bcrypt
