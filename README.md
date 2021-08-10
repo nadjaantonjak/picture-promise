@@ -31,19 +31,19 @@ SO THAT I can access them and read on the event whenever i desire.
 
 ## Acceptance criteria
 ``` 
-GIVEN I do not have an account in the picture-promise app,
+GIVEN I do not have an account in the memories app,
 WHEN I click register THEN I am presented with a form AND I need to enter a username, email and password
 WHEN I enter an exisitng user email to register THEN I am presented with an error message to notify me that the username has been taken
 WHEN I submit the form with a unique email THEN I am taken to the user dashboard
  
-GIVEN I have an account in the picture-promise app ,
+GIVEN I have an account in the memories app ,
 WHEN I enter registered username and password THEN I am taken to the user dashboard
 
-GIVEN I have an account in the picture-promise app,
+GIVEN I have an account in the memories app,
 WHEN log in THEN I am presented with a dashboard showing all my posts
 AND I have the option to create a new item, view an exisitng item, edit an existing item and delete an existing item.
 
-GIVEN I have logged in to the picture-promise,
+GIVEN I have logged in to the memories,
 WHEN I choose to create a new item THEN I am presented with a form.
 AND I need to fill out the form and add a photo.
 WHEN I submit the form THEN I am presented with the post on my dashboard.
@@ -53,8 +53,7 @@ WHEN I submit the form THEN I am presented with a updated item.
 WHEN I choose to delete an existing item THEN the item is removed from the dashboard.
 ```
 ## Wireframe
-![Screenshot (132)](https://user-images.githubusercontent.com/79078061/128807629-a23833a9-b777-4d96-930b-dd1f647d3c48.png)
-![Screenshot (131)](https://user-images.githubusercontent.com/79078061/128807547-0cdcc085-f491-44b5-a476-b8b29744aaf1.png)
+
 
 ## Packages Used
  - apollo/client
@@ -75,7 +74,7 @@ WHEN I choose to delete an existing item THEN the item is removed from the dashb
 ## Presentation Link
 
 ## Deployed link
-https://memories-app-sahil07.vercel.app/
+https://memories-manager.netlify.app/
 
 
 © 2021 Nadja Antonjak. All Rights Reserved.
