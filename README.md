@@ -77,6 +77,7 @@ WHEN I choose to delete an existing item THEN the item is removed from the dashb
  - react-scripts
 
 ## Presentation Link
+https://1drv.ms/p/s!AoBftqE14u47lrRnJBh5pKzy61rUDw?e=mbwD4Y
 
 ## Deployed link
 https://memories-manager.netlify.app/
