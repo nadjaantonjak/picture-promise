@@ -1,5 +1,6 @@
 
 
+
 Contributors-
 Nadja Antonjak
 
@@ -52,7 +53,7 @@ WHEN I submit the form THEN I am presented with a updated item.
 WHEN I choose to delete an existing item THEN the item is removed from the dashboard.
 ```
 ## Wireframe
-![Screenshot (131)](https://user-images.githubusercontent.com/79078061/128807536-1fb4d025-89d6-487e-8728-4b31e83b316e.png)
+![Screenshot (132)](https://user-images.githubusercontent.com/79078061/128807629-a23833a9-b777-4d96-930b-dd1f647d3c48.png)
 ![Screenshot (131)](https://user-images.githubusercontent.com/79078061/128807547-0cdcc085-f491-44b5-a476-b8b29744aaf1.png)
 
 ## Packages Used
