@@ -53,8 +53,8 @@ WHEN I choose to delete an existing item THEN the item is removed from the dashb
 ```
 ## Wireframe
 
-![Screenshot (135)](https://user-images.githubusercontent.com/79078061/128818333-872fc092-2695-476d-b5f8-69ed28293fbe.png)
 ![Screenshot (134)](https://user-images.githubusercontent.com/79078061/128818348-3c673ce2-33ad-42ff-8243-5023b4fc7e95.png)
+![Screenshot (135)](https://user-images.githubusercontent.com/79078061/128818333-872fc092-2695-476d-b5f8-69ed28293fbe.png)
 ![Screenshot (136)](https://user-images.githubusercontent.com/79078061/128818354-6d9cd5b6-d42c-4aef-83b2-4ee95f96663e.png)
 ![Screenshot (137)](https://user-images.githubusercontent.com/79078061/128818362-b46cad3f-0aa0-4cd6-a28d-9714a653b907.png)
 ![Screenshot (138)](https://user-images.githubusercontent.com/79078061/128818370-0684707b-ed0d-427a-a02d-2355d0860509.png)
