@@ -72,6 +72,7 @@ WHEN I choose to delete an existing item THEN the item is removed from the dashb
 ## Presentation Link
 
 ## Deployed link
+https://memories-app-sahil07.vercel.app/
 
 
 © 2021 Nadja Antonjak. All Rights Reserved.
