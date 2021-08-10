@@ -80,11 +80,10 @@ WHEN I choose to delete an existing item THEN the item is removed from the dashb
 https://1drv.ms/p/s!AoBftqE14u47lrRnJBh5pKzy61rUDw?e=mbwD4Y
 
 ![Screenshot (140)](https://user-images.githubusercontent.com/79078061/128860756-22205ac9-d671-4030-ba4d-735392522168.png)
-![Screenshot (145)](https://user-images.githubusercontent.com/79078061/128860778-3149d894-a5c4-484c-9cef-b68d6af587ef.png)
 ![Screenshot (142)](https://user-images.githubusercontent.com/79078061/128860796-0ec4ade4-77ba-482f-ab1f-f70566101938.png)
 ![Screenshot (141)](https://user-images.githubusercontent.com/79078061/128860807-d0709b1c-d8ac-4ec9-9be9-18b9870e878f.png)
 ![Screenshot (144)](https://user-images.githubusercontent.com/79078061/128860820-e1381a86-0f56-4df3-ae4f-324358a201e5.png)
-
+![Screenshot (145)](https://user-images.githubusercontent.com/79078061/128860778-3149d894-a5c4-484c-9cef-b68d6af587ef.png)
 
 ## Deployed link
 https://memories-manager.netlify.app/
