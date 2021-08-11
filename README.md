@@ -84,10 +84,13 @@ https://1drv.ms/p/s!AoBftqE14u47lrRnJBh5pKzy61rUDw?e=mbwD4Y
 ![Screenshot (142)](https://user-images.githubusercontent.com/79078061/128860796-0ec4ade4-77ba-482f-ab1f-f70566101938.png)
 ![Screenshot (143)](https://user-images.githubusercontent.com/79078061/128861152-efeab71a-1a83-4599-9777-d7061d918fb5.png)
 ![Screenshot (144)](https://user-images.githubusercontent.com/79078061/128860820-e1381a86-0f56-4df3-ae4f-324358a201e5.png)
-![Screenshot (145)](https://user-images.githubusercontent.com/79078061/128860778-3149d894-a5c4-484c-9cef-b68d6af587ef.png)
+
 
 ## Deployed link
-https://memories-manager.netlify.app/
+https://nadja-memories7.netlify.app/
+
+Backend Api deployed
+https://memories-nadja.herokuapp.com/
 
 
 © 2021 Nadja Antonjak. All Rights Reserved.
